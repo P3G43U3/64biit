@@ -1,5 +1,5 @@
 ```python
-from User import *
+from names import *
 
 class Features(64biit):
 
@@ -22,4 +22,6 @@ class Features(64biit):
         expertAreas = ["Botting", "Algorithms"]
         
         return langs, habitat, expertAreas
+        
+64biit = get_first_name() + " " + get_last_name()
 ```
