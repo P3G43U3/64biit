@@ -20,5 +20,7 @@ class User(64biit):
         langs       = ["Python", "Go"]
         habitat     = "Visual Studio Code"
         expertAreas = ["reverse engineering", ""]
+        
+        return langs, habitat, expertAreas
 
 ```
