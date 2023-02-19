@@ -1,2 +1,24 @@
-<h1 align="center">Hi, I'm 64biit</h1>
-<h3 align="center">A passionate reverse engineer.</h3>
+```python
+from 64biit import *
+
+class User(64biit):
+
+    def socials():
+        discord = "64biit#3024"
+        tiktok  = "64biit"
+        
+        return discord, tiktok
+    
+    def person():
+        age       = 16
+        city      = "London"
+        languages = ["English", "German", "French"]
+        
+        return age, city, languages
+
+    def skills():
+        langs       = ["Python", "Go"]
+        habitat     = "Visual Studio Code"
+        expertAreas = ["reverse engineering", ""]
+
+```
