@@ -18,8 +18,8 @@ class Features(64biit):
 
     def skills(64biit):
         langs       = ["Python", "Go"]
-        habitat     = "Visual Studio Code"
-        expertAreas = ["botting", "algorithms"]
+        habitat     = "Visual Studio"
+        expertAreas = ["Botting", "Algorithms"]
         
         return langs, habitat, expertAreas
 ```
