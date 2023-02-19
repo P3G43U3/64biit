@@ -5,9 +5,10 @@ class Features(64biit):
 
     def socials(64biit):
         discord = "64biit#3024"
+        youtube = "64biit"
         tiktok  = "64biit"
         
-        return discord, tiktok
+        return discord, youtube, tiktok
     
     def person(64biit):
         age       = 16
