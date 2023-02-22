@@ -24,5 +24,5 @@ class Features(biit):
         
         return langs, habitat, expertAreas
         
-64biit = get_first_name() + " " + get_last_name()
+biit = get_first_name() + " " + get_last_name()
 ```
