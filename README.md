@@ -1,23 +1,23 @@
 ```python
 from names import *
 
-class Features(64biit):
+class Features(biit):
 
-    def socials(64biit):
+    def socials(biit):
         discord = "64biit#3024"
         youtube = "64biit"
         tiktok  = "64biit"
         
         return discord, youtube, tiktok
     
-    def person(64biit):
+    def person(biit):
         age       = 16
         city      = "London"
         languages = ["English", "German", "French"]
         
         return age, city, languages
 
-    def skills(64biit):
+    def skills(biit):
         langs       = ["Python", "Go"]
         habitat     = "Visual Studio"
         expertAreas = ["Botting", "Algorithms"]
