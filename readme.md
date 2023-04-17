@@ -1,28 +1,26 @@
 ```python
 from names import *
 
-class Features(biit):
+class Features(pegasus):
 
-    def socials(biit):
-        discord = "64biit#3024"
-        youtube = "64biit"
-        tiktok  = "64biit"
+    def socials(pegasus):
+        telegram = "t.me/P3G43U3"
         
-        return discord, youtube, tiktok
+        return telegram
     
-    def person(biit):
+    def person(pegasus):
         age       = 16
         city      = "London"
         languages = ["English", "German", "French"]
         
         return age, city, languages
 
-    def skills(biit):
+    def skills(pegasus):
         langs       = ["Python", "Go"]
         habitat     = "Visual Studio"
         expertAreas = ["Botting", "Algorithms"]
         
         return langs, habitat, expertAreas
         
-biit = get_first_name() + " " + get_last_name()
+pegasus = get_first_name() + " " + get_last_name()
 ```
